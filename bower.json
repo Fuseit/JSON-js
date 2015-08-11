@@ -1,0 +1,24 @@
+{
+  "name": "JSON-js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Fuseit/JSON-js",
+  "authors": [
+    "douglascrockford <douglas@crockford.com>"
+  ],
+  "description": "Fork for IE8 fix",
+  "main": "json2.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "json"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
